@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francis MD</h1>
 <h3 align="center">I’m a Frontend Developer & SEO specialist focused on creating digital experiences for brand awareness and business growth.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis-md&label=Profile%20views&color=0e75b6&style=flat" alt="francis-md" /> </p>
+
 
 - 🌱 I’m currently learning **React.js, Vue.js, Node.js, C#, .NET, MVC, MERN**
 
