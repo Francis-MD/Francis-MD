@@ -45,9 +45,9 @@
 <h3 align="left">Others</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <br><br>
 
-<h2 align="center">GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis-md&show_icons=true&locale=en&layout=compact" alt="francis-md" /></p>
+<h2 center="center">GitHub Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis-md&show_icons=true&locale=en&layout=compact" alt="francis-md" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=francis-md&show_icons=true&locale=en" alt="francis-md" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=francis-md&show_icons=true&locale=en" alt="francis-md" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=francis-md&" alt="francis-md" /></p>
